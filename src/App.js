@@ -18,6 +18,7 @@ function App() {
           <Person name="Lin"/>
           <Person name="Jan"/>
           <Person name="Mon"/>
+          <Person name="Ran"/>
         </div>
         <div>
           <Clock />
